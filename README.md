@@ -8,7 +8,7 @@
   * I have learnt (still keep learning :)) DevOps tools/technologies since last 6 months.
   * I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
   
-- Below are the repositories that I used throughout my AWS/DevOps journey while learning `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`.
+- Below are the repositories that I used throughout my AWS/DevOps journey while learning `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`.
 
   | Repository Name | Description  |
   | ------ | ------ |
