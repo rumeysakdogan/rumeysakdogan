@@ -12,7 +12,7 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) | Includes real-world DevOps projects using AWS |
+  | [AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) | DevOps projects using AWS |
   | [AWS Services](https://github.com/rumeysakdogan/AWS) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch |
   | [AWS Services](https://github.com/rumeysakdogan/AWS) | Demos for different AWS Services including VPC, Route53, CloudFront, ElasticBeanstalk, Lambda, EFS, NAT GW, API GW |
   | [petclinic-microservices-with-db](https://github.com/rumeysakdogan/petclinic-microservices-with-db) | Java Microservices Project|
