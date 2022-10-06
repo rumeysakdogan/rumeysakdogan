@@ -3,7 +3,7 @@
 - I am [Rumeysa Dogan](https://www.linkedin.com/in/rumeysadogan/).
 
 - Brief intro about me:
-  * My Tech life started almost 3 years ago. Transitioned from `Math Teacher`  -->  `SDET` --> `DevOps Engineer`
+  * My Tech life started almost 2.5 years ago. Transitioned from `Math Teacher`  -->  `SDET` --> `DevOps Engineer`
   * I’m currently working as Test Automation Engineer, soon to start a new role as DevOps Engineer.
   * I have learnt (still keep learning :)) DevOps tools/technologies since last 6 months.
   * I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
