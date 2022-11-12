@@ -4,7 +4,6 @@
 
 - Brief intro about me:
   * My Tech life started almost 2.5 years ago. Transitioned from `Math Teacher`  -->  `SDET` --> `Cloud Engineer`
-  * I have learnt (still keep learning :)) DevOps tools/technologies since last 6 months.
   * I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
   
 - Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
