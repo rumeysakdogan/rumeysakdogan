@@ -3,8 +3,8 @@
 - I am [Rumeysa Dogan](https://www.linkedin.com/in/rumeysadogan/).
 
 - Brief intro about me:
-  * Transitioned from `Math Teacher`  -->  `SDET` --> `Cloud Engineer`
-  * I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
+  * Transitioned from `Math Teacher`  -->  `SDET` --> `Cloud/DevOps Engineer`
+  * I love automation, coding, problem-solving, learning new skills, and implementing them to solve different challenges.
   
 - Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
 
